@@ -13,6 +13,8 @@ namespace ProcesadorImagenes
     {
 
         private Bitmap imagen;
+		private float variable;
+		private int numero;
 
         // Constructor default
         public Efectos(Bitmap item)

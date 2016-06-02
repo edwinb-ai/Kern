@@ -13,6 +13,8 @@ namespace ProcesadorImagenes
     {
 
         private Bitmap imagen;
+        private float variable;
+        private int numero;
 
         // Constructor default
         public Efectos(Bitmap item)
@@ -109,15 +111,9 @@ namespace ProcesadorImagenes
                             // Utilizar los nuevos promedios como el color de cada pixel
                             copy.SetPixel(i, j, Color.FromArgb(promR, promG, promB));
                         }
-                        catch (AggregateException ae)
+                        catch (Exception)
                         {
-                            foreach (var ex in ae.InnerExceptions)
-                            {
-                                if (ex is ArgumentException)
-                                    Console.WriteLine(ex.Message);
-                                else
-                                    throw ex;
-                            }
+                            
                         }
 
 

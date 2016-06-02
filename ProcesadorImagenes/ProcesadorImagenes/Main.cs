@@ -179,11 +179,13 @@ namespace ProcesadorImagenes
             // Activar barra para blur
             if (BlurButton.Checked == true)
             {
+                BarraBlur.Value = 0;
                 BarraBlur.Visible = true;
                 BarraBlur.Enabled = true;
             }
             else
             {
+                BarraBlur.Value = 0;
                 BarraBlur.Visible = false;
                 BarraBlur.Enabled = false;
             }
@@ -212,11 +214,13 @@ namespace ProcesadorImagenes
         {
             if (botonRojo.Checked == true)
             {
+                barraCanalRojo.Value = 0;
                 barraCanalRojo.Enabled = true;
                 barraCanalRojo.Visible = true;
             }
             else
             {
+                barraCanalRojo.Value = 0;
                 barraCanalRojo.Enabled = false;
                 barraCanalRojo.Visible = false;
             }
@@ -238,11 +242,13 @@ namespace ProcesadorImagenes
         {
             if (botonVerde.Checked == true)
             {
+                barraCanalVerde.Value = 0;
                 barraCanalVerde.Enabled = true;
                 barraCanalVerde.Visible = true;
             }
             else
             {
+                barraCanalVerde.Value = 0;
                 barraCanalVerde.Enabled = false;
                 barraCanalVerde.Visible = false;
             }
@@ -264,11 +270,13 @@ namespace ProcesadorImagenes
         {
             if (botonAzul.Checked == true)
             {
+                barraCanalAzul.Value = 0;
                 barraCanalAzul.Enabled = true;
                 barraCanalAzul.Visible = true;
             }
             else
             {
+                barraCanalAzul.Value = 0;
                 barraCanalAzul.Enabled = false;
                 barraCanalAzul.Visible = false;
             }

@@ -16,3 +16,12 @@ C:\Users\Edwin Bedolla\Downloads\ProcesadorImagenes\ProcesadorImagenes\obj\Debug
 C:\Users\Edwin Bedolla\Downloads\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.csproj.GenerateResource.Cache
 C:\Users\Edwin Bedolla\Downloads\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.Main.resources
 C:\Users\Edwin Bedolla\Downloads\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\bin\Debug\ProcesadorImagenes.exe.config
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.exe
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.pdb
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\bin\Debug\ProcesadorImagenes.exe
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\bin\Debug\ProcesadorImagenes.pdb
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.Main.resources
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.Properties.Resources.resources
+C:\Users\Edwin Bedolla\Documents\GitHub\Proyecto-Vargas\ProcesadorImagenes\ProcesadorImagenes\obj\Debug\ProcesadorImagenes.csproj.GenerateResource.Cache

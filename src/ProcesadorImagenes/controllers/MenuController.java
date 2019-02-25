@@ -35,6 +35,7 @@ public class MenuController {
         ImageView imageWorkView = new ImageView(imageToWork);
 
         // Adjust the image and also cache it
+        // TODO: Make it so that the scene (window) adjusts itself with the size of the file
         imageWorkView.setSmooth(true);
         imageWorkView.setPreserveRatio(true);
         imageWorkView.setCache(true);
